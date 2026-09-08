@@ -1,5 +1,5 @@
 # Auto-generated — do not edit manually
-# Updated: 2026-09-08T14:03:01.469Z
+# Updated: 2026-09-08T14:10:21.685Z
 
 documents:
   - path: docs/StrawberryMoon/Execution/automated-clinical-extraction-for-standardized-dvla-fitness/4.side-by-side-gp-verification-digital-sign-off.epic.md
@@ -79,6 +79,14 @@ documents:
     tshirt: M
     period: Q3 FY27
     targetDate: 2027-08-31
+  - path: docs/StrawberryMoon/Execution/launch-of-automated-subject-access-request-sar-extraction/2.intelligent-nlp-third-party-redaction-engine.epic.md
+    id: 654a3324-ba5b-4706-9d02-026a77add551
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    targetDate: 2026-11-15
+    parent_press_release: launch-of-automated-subject-access-request-sar-extraction.pr.md
   - path: docs/StrawberryMoon/Execution/automated-clinical-extraction-for-standardized-dvla-fitness/1.ehr-ingestion-snomed-ct-chronology-mapping.epic.md
     id: abcbb4f9-99c1-43e8-af84-ea6427dd3680
     category: epic
@@ -93,3 +101,27 @@ documents:
     moscow: Must
     tshirt: M
     parent_press_release: automated-clinical-extraction-for-standardized-dvla-fitness.pr.md
+  - path: docs/StrawberryMoon/Execution/launch-of-automated-subject-access-request-sar-extraction/4.sar-dashboard-caldicott-compliance-audit-trail.epic.md
+    id: 1a72fe87-ead2-42f9-923b-5d919908a3ea
+    category: epic
+    status: Draft
+    moscow: Should
+    tshirt: S
+    targetDate: 2026-12-15
+    parent_press_release: launch-of-automated-subject-access-request-sar-extraction.pr.md
+  - path: docs/StrawberryMoon/Execution/launch-of-automated-subject-access-request-sar-extraction/1.health-lake-sar-ingestion-record-extraction.epic.md
+    id: bb8982ce-bec9-4bcd-8c34-5476f0178b5e
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    targetDate: 2026-10-31
+    parent_press_release: launch-of-automated-subject-access-request-sar-extraction.pr.md
+  - path: docs/StrawberryMoon/Execution/launch-of-automated-subject-access-request-sar-extraction/3.sar-redaction-review-pdf-compilation-workspace.epic.md
+    id: 2b919d45-76c2-43b8-a71b-a10013f2d462
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    targetDate: 2026-11-30
+    parent_press_release: launch-of-automated-subject-access-request-sar-extraction.pr.md
