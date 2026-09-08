@@ -1,0 +1,95 @@
+# Auto-generated — do not edit manually
+# Updated: 2026-09-08T14:03:01.469Z
+
+documents:
+  - path: docs/StrawberryMoon/Execution/automated-clinical-extraction-for-standardized-dvla-fitness/4.side-by-side-gp-verification-digital-sign-off.epic.md
+    id: aff1ffa5-a298-4cdb-b180-0560d3c7db6f
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: automated-clinical-extraction-for-standardized-dvla-fitness.pr.md
+  - path: docs/StrawberryMoon/Execution/automated-clinical-extraction-for-standardized-dvla-fitness/5.commercial-escrow-billing-gated-delivery.epic.md
+    id: 67eb1e32-5b2c-49ba-9ef4-e324b183d365
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: automated-clinical-extraction-for-standardized-dvla-fitness.pr.md
+  - path: docs/StrawberryMoon/Execution/deep-bidirectional-connectors-with-emis-web-and-tpp-systmone.pr.md
+    id: 87979322-bba0-4d19-b02d-6d30c660eadd
+    category: press-release
+    status: Draft
+    tshirt: L
+    period: Q1 FY27
+    targetDate: 2027-02-28
+  - path: docs/StrawberryMoon/Execution/next-generation-contextual-ai-redaction-engine-specifically-trained-on-complex-uk-primary-care-notes-to-automatically-scrub-third-party-identifiers-and-sensitive-non-disclosable-clinical-history.pr.md
+    id: 16840606-7b1a-4ae8-8b5b-4ec585975dfd
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY27
+    targetDate: 2027-05-31
+  - path: docs/StrawberryMoon/Execution/federated-administrative-hub-enabling-primary-care-networks.pr.md
+    id: e3df7d1c-96fd-471b-8f14-7ff08761d62f
+    category: press-release
+    status: Draft
+    tshirt: L
+    period: Q3 FY27
+    targetDate: 2027-08-31
+  - path: docs/StrawberryMoon/Execution/automated-clinical-extraction-for-standardized-dvla-fitness.pr.md
+    id: 12415ee6-bfae-43a0-bf6c-2b467b11948e
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY26
+    targetDate: 2026-11-30
+  - path: docs/StrawberryMoon/Execution/launch-of-automated-subject-access-request-sar-extraction.pr.md
+    id: a0abd602-4fac-42cb-bbbb-fb045c49bff0
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY26
+    targetDate: 2026-11-30
+  - path: docs/StrawberryMoon/Execution/ai-driven-chronological-summarization-engine-converting-decadal-longitudinal-patient-records-into-structured-clinical-timelines-for-legal-reports-and-insurance-assessments.pr.md
+    id: daea81df-2c7c-4d0a-962f-4820bc5e60e0
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY27
+    targetDate: 2027-05-31
+  - path: docs/StrawberryMoon/Execution/automated-clinical-extraction-for-standardized-dvla-fitness/2.automated-dvla-insurance-template-synthesis.epic.md
+    id: 748d19ed-a5eb-4d36-b3f0-a36895e37120
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: automated-clinical-extraction-for-standardized-dvla-fitness.pr.md
+  - path: docs/StrawberryMoon/Execution/integrated-fee-escrow-and-automated-billing-engine-ensuring.pr.md
+    id: 251ad0a8-4583-4a0f-81c5-fcdac63d7253
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q1 FY27
+    targetDate: 2027-02-28
+  - path: docs/StrawberryMoon/Execution/integrated-population-health-and-operational-reporting-suite.pr.md
+    id: 142d6846-d395-486d-8522-f156d2662a71
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q3 FY27
+    targetDate: 2027-08-31
+  - path: docs/StrawberryMoon/Execution/automated-clinical-extraction-for-standardized-dvla-fitness/1.ehr-ingestion-snomed-ct-chronology-mapping.epic.md
+    id: abcbb4f9-99c1-43e8-af84-ea6427dd3680
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: automated-clinical-extraction-for-standardized-dvla-fitness.pr.md
+  - path: docs/StrawberryMoon/Execution/automated-clinical-extraction-for-standardized-dvla-fitness/3.ai-assisted-third-party-redaction-suite.epic.md
+    id: 75e828b3-6ed5-4737-9cb5-a7cfa7bb41e2
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: automated-clinical-extraction-for-standardized-dvla-fitness.pr.md
